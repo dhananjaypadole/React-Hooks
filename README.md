@@ -1,6 +1,6 @@
 # REACT HOOKS 
 
-#### useState
+### 1) useState
  
  syntax:
  ```
@@ -13,7 +13,7 @@
 
  in place of varname1 we can directly pass value as well
 
- #### useReducer
+ ### 2) useReducer
 
 if you are working on small apllication then useState is best and 
 if you are working on big application then useReducer is best 
@@ -36,7 +36,7 @@ we also have to create reducer function whichis created as below
 action --> action/ operation which we want to perform
 ```
 
-#### useEffect
+### 3) useEffect
 
 When To Use:
 1) If you want to display something only once after page load that time we can use useEffect Hook
